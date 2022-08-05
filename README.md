@@ -99,12 +99,12 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [decord](https://github.com/dmlc/decord) (高性能视频读取库)
 * [profile](https://github.com/shibing624/python-tutorial/blob/master/06_tool/profiler%E5%B7%A5%E5%85%B7.md) (Python 代码性能分析)
 
-### Linux 使用
+## 🏷️ Linux 使用
 * [Linux 就该这么学](https://www.linuxprobe.com/) (免费PDF教材)
 * [Oh-my-zsh](https://zhuanlan.zhihu.com/p/35283688) 🚀 (配置好用的命令行)
 * [Tmux](https://zhuanlan.zhihu.com/p/98384704) (远程连接服务器后台运行代码) [使用手册](http://louiszhai.github.io/2017/09/30/tmux/)
 
-## :octocat: Github
+## 🏷️ Github :octocat:
 * [Best-README-Template](https://github.com/yzfly/Best-README-Template)
 
 ## 🏷️ Others

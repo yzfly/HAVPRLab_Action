@@ -98,10 +98,14 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 * [decord](https://github.com/dmlc/decord) (高性能视频读取库)
 * [profile](https://github.com/shibing624/python-tutorial/blob/master/06_tool/profiler%E5%B7%A5%E5%85%B7.md) (Python 代码性能分析)
+
 ### Linux 使用
 * [Linux 就该这么学](https://www.linuxprobe.com/) (免费PDF教材)
 * [Oh-my-zsh](https://zhuanlan.zhihu.com/p/35283688) 🚀 (配置好用的命令行)
 * [Tmux](https://zhuanlan.zhihu.com/p/98384704) (远程连接服务器后台运行代码) [使用手册](http://louiszhai.github.io/2017/09/30/tmux/)
+
+## :octocat: Github
+* [Best-README-Template](https://github.com/yzfly/Best-README-Template)
 
 ## 🏷️ Others
 * [Cuda 安装和问题解决](./nvidia_gpu.md)
@@ -109,4 +113,3 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [Anaconda 安装使用](https://blog.csdn.net/a745233700/article/details/109376667)(方便 Python 环境管理)
 
 * [VS Code 远程开发](https://zhuanlan.zhihu.com/p/141344165) (远程连接服务器开发程序， PyCharm 也具备该功能)
-

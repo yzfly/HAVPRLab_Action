@@ -28,9 +28,11 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 
 ## 🏷️ Paper Lists
+### Action Recognition
 * [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)(Action Recognition 论文合集)🔥
-* [TSN (ECCV 2016)](https://arxiv.org/abs/1608.00859) [[Code](https://github.com/yjxiong/temporal-segment-networks)]
-* [I3D (CVPR 2017)](https://arxiv.org/abs/1705.07750) [[Code: kinetics-i3d](https://github.com/deepmind/kinetics-i3d)][[Code:pytorch-i3d](https://github.com/piergiaj/pytorch-i3d)]
+
+* [TSN (ECCV 2016)](https://arxiv.org/abs/1608.00859) [[Code](https://github.com/yjxiong/temporal-segment-networks)] ⭐
+* [I3D (CVPR 2017)](https://arxiv.org/abs/1705.07750) [[Code: kinetics-i3d](https://github.com/deepmind/kinetics-i3d)][[Code:pytorch-i3d](https://github.com/piergiaj/pytorch-i3d)] ⭐
 * [3D-ResNets (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/html/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.html) [[Code](https://github.com/kenshohara/3D-ResNets-PyTorch)] ⭐
 * [TSM (ICCV 2019) ](http://arxiv.org/abs/1811.08383) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_TSM_Temporal_Shift_Module_for_Efficient_Video_Understanding_ICCV_2019_paper.pdf)][[Code](https://github.com/mit-han-lab/temporal-shift-module)] ⭐
 * [TEA (CVPR 2020)](https://arxiv.org/abs/2004.01398) [[Code](https://github.com/Phoenix1327/tea-action-recognition)]
@@ -41,6 +43,12 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [Motionformer (NeurIPS 2021)](https://facebookresearch.github.io/Motionformer/) [[Paper](https://arxiv.org/abs/2106.05392)] [[Code](https://github.com/facebookresearch/Motionformer)]
 * [Video Swin Transformer (CVPR 2022)](https://arxiv.org/abs/2106.13230) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.Paper)] [[Code](https://github.com/SwinTransformer/Video-Swin-Transformer)]⭐
 
+* [FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment](https://finediving.ivg-research.xyz/) [[Paper](https://arxiv.org/pdf/2204.03646.pdf)] [[Code & Dataset](https://github.com/xujinglin/FineDiving)] (CVPR 2022 Oral | 清华开源FineDiving：细粒度动作质量评估数据集)
+* [Expanding Language-Image Pretrained Models for General Video Recognition](https://github.com/microsoft/VideoX/tree/master/X-CLIP) [[Paper](https://arxiv.org/abs/2208.02816)] [[Code](https://github.com/microsoft/videox)] (ECCV 2022 Oral | 微软开源 X-Clip,动作识别，小样本学习)
+
+### Others
+* [ConvGRU (ICLR 2016)](https://arxiv.org/abs/1511.06432) [[Paper]((https://arxiv.org/abs/1511.06432))
+]
 
 ## 🏷️ Training Skills
 * [PyTorch 技巧](https://github.com/lartpang/PyTorchTricks)🔥

@@ -45,15 +45,19 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 * [FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment](https://finediving.ivg-research.xyz/) [[Paper](https://arxiv.org/pdf/2204.03646.pdf)] [[Code & Dataset](https://github.com/xujinglin/FineDiving)] (CVPR 2022 Oral | 清华开源FineDiving：细粒度动作质量评估数据集)
 * [Expanding Language-Image Pretrained Models for General Video Recognition](https://github.com/microsoft/VideoX/tree/master/X-CLIP) [[Paper](https://arxiv.org/abs/2208.02816)] [[Code](https://github.com/microsoft/videox)] (ECCV 2022 Oral | 微软开源 X-Clip,动作识别，小样本学习)
+* [UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning
+](https://github.com/microsoft/VideoX/tree/master/X-CLIP) [[Paper](https://arxiv.org/abs/2201.04676)] [[Code](https://github.com/Sense-X/UniFormer)] (Uniformer ICLR2022 (评分 8868, Top 3%), 比较有意思的 CNN 与 Transformer 相互启发的工作，作者也使用 Uniformer 打了 CVPR dark action recognition 的比赛)
 
 ### Others
 * [ConvGRU (ICLR 2016)](https://arxiv.org/abs/1511.06432) [[Paper]((https://arxiv.org/abs/1511.06432))
 ]
+* [ACmix (CVPR 2022)](https://arxiv.org/abs/2111.14556) [[Paper](https://arxiv.org/pdf/2111.14556v1.pdf)][[Code](https://github.com/LeapLabTHU/ACmix)] (DenseNet 一作黄高老师组 CNN与transformer 融合的工作)
 
 ## 🏷️ Training Skills
 * [PyTorch 技巧](https://github.com/lartpang/PyTorchTricks)🔥
 * [PyTorch 炼丹过程常用小代码](pytorch_snippets.md)
 * [SWA](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/) (🔥无痛涨点训练方法)
+* [EMA](https://github.com/lucidrains/ema-pytorch) (🔥指数滑动平均无痛涨点)
 * [Fast.ai 推崇的 One Cycle 训练策略](https://fastai1.fast.ai/callbacks.one_cycle.html)
 * [调参-如何确定学习率 lr](https://www.yuque.com/explorer/blog/sv37zs)
 * [Label Smoothing](https://github.com/pytorch/pytorch/issues/7455)

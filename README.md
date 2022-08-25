@@ -24,7 +24,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [视频理解论文串讲（下）](https://www.bilibili.com/video/BV11Y411P7ep)🔥
 * [双流网络论文逐段精读](https://www.bilibili.com/video/BV1mq4y1x7RU)🔥
 * [I3D 论文精读](https://www.bilibili.com/video/BV1tY4y1p7hq)🔥
-
+* [管中窥”视频“，”理解“一斑 —— 视频理解概览](https://techbeat.net/article-info?id=2200) (2D, 3D方法的概览)
 
 
 ## 🏷️ Paper Lists

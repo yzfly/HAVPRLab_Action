@@ -10,6 +10,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 #### 基础
 * [知名的吴恩达深度学习教程](https://mooc.study.163.com/university/deeplearning_ai#/c)
+* [斯坦福 cs231n 课程资源](https://cs231n.github.io/)
 * [Fast.ai 出品的深度学习基础教程](https://www.fast.ai/)
 * [深度学习上手指南](https://github.com/nndl/nndl.github.io/blob/master/md/DeepGuide.md)
 * **[如何读论文-李沐](https://www.bilibili.com/video/BV1H44y1t75x)** [BiliBili](https://www.bilibili.com/video/BV1H44y1t75x)
@@ -55,6 +56,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 ## 🏷️ Training Skills
 * [PyTorch 技巧](https://github.com/lartpang/PyTorchTricks)🔥
+* [深度学习技巧](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 * [PyTorch 炼丹过程常用小代码](pytorch_snippets.md)
 * [SWA](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/) (🔥无痛涨点训练方法)
 * [EMA](https://github.com/lucidrains/ema-pytorch) (🔥指数滑动平均无痛涨点)

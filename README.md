@@ -55,7 +55,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 ## 🏷️ Training Skills
 * [PyTorch 技巧](https://github.com/lartpang/PyTorchTricks)🔥
-* [ResNet strikes back: An improved training procedure in timm](https://paperswithcode.com/paper/resnet-strikes-back-an-improved-training)🔥
+* [ResNet strikes back: An improved training procedure in timm](https://paperswithcode.com/paper/resnet-strikes-back-an-improved-training) [[Paper](https://openreview.net/pdf?id=NG6MJnVl6M5)]🔥
 * [深度学习技巧](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 * [PyTorch 炼丹过程常用小代码](pytorch_snippets.md)
 * [SWA](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/) (🔥无痛涨点训练方法)

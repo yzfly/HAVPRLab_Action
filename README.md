@@ -31,7 +31,6 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 ## 🏷️ Paper Lists
 ### Action Recognition
 * [awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)(Action Recognition 论文合集)🔥
-
 * [TSN (ECCV 2016)](https://arxiv.org/abs/1608.00859) [[Code](https://github.com/yjxiong/temporal-segment-networks)] ⭐
 * [I3D (CVPR 2017)](https://arxiv.org/abs/1705.07750) [[Code: kinetics-i3d](https://github.com/deepmind/kinetics-i3d)][[Code:pytorch-i3d](https://github.com/piergiaj/pytorch-i3d)] ⭐
 * [3D-ResNets (CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/html/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.html) [[Code](https://github.com/kenshohara/3D-ResNets-PyTorch)] ⭐
@@ -56,6 +55,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 
 ## 🏷️ Training Skills
 * [PyTorch 技巧](https://github.com/lartpang/PyTorchTricks)🔥
+* [ResNet strikes back: An improved training procedure in timm](https://paperswithcode.com/paper/resnet-strikes-back-an-improved-training)🔥
 * [深度学习技巧](https://github.com/Conchylicultor/Deep-Learning-Tricks)
 * [PyTorch 炼丹过程常用小代码](pytorch_snippets.md)
 * [SWA](https://pytorch.org/blog/stochastic-weight-averaging-in-pytorch/) (🔥无痛涨点训练方法)

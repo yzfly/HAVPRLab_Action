@@ -49,8 +49,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 ](https://github.com/microsoft/VideoX/tree/master/X-CLIP) [[Paper](https://arxiv.org/abs/2201.04676)] [[Code](https://github.com/Sense-X/UniFormer)] (Uniformer ICLR2022 (评分 8868, Top 3%), 比较有意思的 CNN 与 Transformer 相互启发的工作，作者也使用 Uniformer 打了 CVPR dark action recognition 的比赛)
 
 ### Others
-* [ConvGRU (ICLR 2016)](https://arxiv.org/abs/1511.06432) [[Paper]((https://arxiv.org/abs/1511.06432))
-]
+* [ConvGRU (ICLR 2016)](https://arxiv.org/abs/1511.06432) [[Paper](https://arxiv.org/abs/1511.06432)]
 * [NeRF (ECCV 2020 oral)](https://www.matthewtancik.com/nerf) [[Paper](https://arxiv.org/abs/2003.08934)][[Code](https://github.com/yenchenlin/nerf-pytorch)] (Neural Radiance Fields 用于 AI 内容生成)
 * [RepVGG (CVPR 2021)](https://arxiv.org/abs/2101.03697) [[Paper](https://arxiv.org/abs/2101.03697)][[Code](https://github.com/DingXiaoH/RepVGG)] [[知乎](https://zhuanlan.zhihu.com/p/344324470)] (清华大学 VGG 网络的复兴)
 * [MLP-Mixer (NIPS 2021)](https://papers.nips.cc/paper/2021/hash/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Abstract.html) [[Paper](https://papers.nips.cc/paper/2021/file/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Paper.pdf)][[Code](https://github.com/lucidrains/mlp-mixer-pytorch)] (Google 纯 MLP 架构卷土重来)

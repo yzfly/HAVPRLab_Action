@@ -113,6 +113,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 ### 其他代码库
 * [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)(各种 Attention 机制的核心实现，简单易懂)🔥
 * [Timm](https://github.com/rwightman/pytorch-image-models) (各种知名 Backbone 实现) 🔥
+* [transformers](https://github.com/huggingface/transformers)(transformers 实现) 🔥
 
 
 ## 🏷️  Useful Tools

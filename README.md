@@ -51,7 +51,14 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 ### Others
 * [ConvGRU (ICLR 2016)](https://arxiv.org/abs/1511.06432) [[Paper]((https://arxiv.org/abs/1511.06432))
 ]
+* [NeRF (ECCV 2020 oral)](https://www.matthewtancik.com/nerf) [[Paper](https://arxiv.org/abs/2003.08934)][[Code](https://github.com/yenchenlin/nerf-pytorch)] (Neural Radiance Fields 用于 AI 内容生成)
+* [RepVGG (CVPR 2021)](https://arxiv.org/abs/2101.03697) [[Paper](https://arxiv.org/abs/2101.03697)][[Code](https://github.com/DingXiaoH/RepVGG)] [[知乎](https://zhuanlan.zhihu.com/p/344324470)] (清华大学 VGG 网络的复兴)
+* [MLP-Mixer (NIPS 2021)](https://papers.nips.cc/paper/2021/hash/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Abstract.html) [[Paper](https://papers.nips.cc/paper/2021/file/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Paper.pdf)][[Code](https://github.com/lucidrains/mlp-mixer-pytorch)] (Google 纯 MLP 架构卷土重来)
 * [ACmix (CVPR 2022)](https://arxiv.org/abs/2111.14556) [[Paper](https://arxiv.org/pdf/2111.14556v1.pdf)][[Code](https://github.com/LeapLabTHU/ACmix)] (DenseNet 一作黄高老师组 CNN与transformer 融合的工作)
+* [Stable Diffusion (CVPR 2022 oral)](https://arxiv.org/abs/2111.14556) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[Code](https://github.com/CompVis/stable-diffusion)] [[在线体验](https://huggingface.co/spaces/stabilityai/stable-diffusion)](火爆国内外，从文字描述生成图片内容)
+
+## 🏷️ Funny AI
+* [🤗 huggingface](https://huggingface.co/) (AI 模型试玩，数据、模型发布社区)
 
 ## 🏷️ Training Skills
 * [PyTorch 技巧](https://github.com/lartpang/PyTorchTricks)🔥
@@ -103,6 +110,7 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 ### Dataset-Related
 * [Common Visual Data Foundation](https://github.com/cvdfoundation) (Kinetics400/600/700、AVA 等大型数据集便利下载)
 * [VoTT](https://github.com/microsoft/VoTT) (微软出品的好用的标注工具) [[BiliBili](https://www.bilibili.com/video/BV1854y127gT)]
+
 ### 其他代码库
 * [External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)(各种 Attention 机制的核心实现，简单易懂)🔥
 * [Timm](https://github.com/rwightman/pytorch-image-models) (各种知名 Backbone 实现) 🔥

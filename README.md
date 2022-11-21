@@ -115,6 +115,32 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [Timm](https://github.com/rwightman/pytorch-image-models) (各种知名 Backbone 实现) 🔥
 * [transformers](https://github.com/huggingface/transformers)(transformers 实现) 🔥
 
+### Github 加速 ✈️
+
+日常使用 github 下载代码时如果遇到网速慢、无法连接的情况，可以使用下面的方法加速
+
+#### 1. 方法一（推荐）： [ghproxy.com](https://ghproxy.com/)
+
+常规的面向 GitHub 的 clone 命令可能如下：
+```
+git clone https://github.com/author/repo
+```
+使用 ghproxy 代理加速后（添加 https://ghproxy.com/ 即可）：
+```
+git clone https://ghproxy.com/https://github.com/author/repo
+```
+
+#### 2. 方法二（推荐）： [fastgit.org](https://doc.fastgit.org/zh-cn/guide.html)
+
+常规的面向 GitHub 的 clone 命令可能如下：
+```
+git clone https://github.com/author/repo
+```
+使用 fastgit 时， 命令修改为如下即可：
+```
+git clone https://hub.fastgit.xyz/author/repo
+```
+
 
 ## 🏷️  Useful Tools
 
@@ -135,3 +161,4 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [Anaconda 安装使用](https://blog.csdn.net/a745233700/article/details/109376667)(方便 Python 环境管理)
 
 * [VS Code 远程开发](https://zhuanlan.zhihu.com/p/141344165) (远程连接服务器开发程序， PyCharm 也具备该功能)
+

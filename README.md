@@ -56,9 +56,9 @@ Human Activity & Visual Perception Research Lab (HAVPRLab) DeepAction Learning R
 * [ACmix (CVPR 2022)](https://arxiv.org/abs/2111.14556) [[Paper](https://arxiv.org/pdf/2111.14556v1.pdf)][[Code](https://github.com/LeapLabTHU/ACmix)] (DenseNet 一作黄高老师组 CNN与transformer 融合的工作)
 * [Stable Diffusion (CVPR 2022 oral)](https://arxiv.org/abs/2111.14556) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)][[Code](https://github.com/CompVis/stable-diffusion)] [[在线体验](https://huggingface.co/spaces/stabilityai/stable-diffusion)](火爆国内外，从文字描述生成图片内容)
 
-### 论文写作
+### 科研
 * [IEEE论文投稿流程（格式说明，新手指南，模板）](https://zhuanlan.zhihu.com/p/317281632)
-
+* [机器学习科研：如何高效管理代码和实验](https://zhuanlan.zhihu.com/p/559085050)
 
 ## 🏷️ Funny AI
 * [🤗 huggingface](https://huggingface.co/) (AI 模型试玩，数据、模型发布社区)
